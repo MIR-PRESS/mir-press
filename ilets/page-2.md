@@ -1,0 +1,91 @@
+# Page 2
+
+아래는 \*\*지금까지 나온 IELTS 핵심 단어들만 사용해서 만들어진, ‘읽기 속도·이해력 뚫는 50개 훈련 문단 세트’\*\*다.
+
+각 문단은 2–4문장, 난도는 IELTS 6.0\~7.0 리딩과 동일, 문장 구조는 반복되지만 단어가 계속 바뀌도록 설계했다.
+
+<br>
+
+(※ 단어는 모두 지금까지 네가 요청해 만든 500개 세트에서만 사용)
+
+***
+
+## 📘 읽기 뚫는 훈련 문단 50개
+
+***
+
+### 1\~10: 과학·기술
+
+1. Researchers allocate significant resources to investigate how climate patterns correlate with environmental change. Their findings indicate that small temperature variations can trigger large-scale ecological shifts.
+2. The new device utilizes advanced sensors to detect chemical components in the air. This innovation has the potential to enhance safety in industrial environments.
+3. Scientists formulate theories to explain unexpected phenomena, especially when existing data contradicts earlier assumptions. Such work often leads to substantial progress.
+4. The study demonstrates that plants respond rapidly to changes in light exposure. Even a minimal increase in sunlight can stimulate notable growth.
+5. Engineers implement strict protocols to prevent system contamination. Any violation of these rules can disruptproduction completely.
+6. Researchers simulate extreme weather conditions to predict how natural disasters might evolve. This allows governments to prepare effective measures.
+7. The experiment reveals a strong correlation between nutrient intake and cognitive performance. Students with balanced diets achieve higher scores consistently.
+8. Scientists extract minerals from soil samples and analyze their chemical composition. Variations in density often signify human activity.
+9. A new algorithm monitors temperature changes in real time and adjusts energy usage automatically. This approach greatly reduces operational costs.
+10. The research team compiles genetic data to identify inherited diseases. Their insights could lead to breakthroughsin medical treatment.
+
+***
+
+### 11–20: 환경·지구과학
+
+11. Coastal cities must adapt to rising sea levels, as the consequences of inaction may be severe. Experts recommend sustainable development to mitigate risks.
+12. The rapid decline in biodiversity highlights an urgent global issue. Many species cannot survive under changing climatic conditions.
+13. Forest conservation programs aim to preserve natural resources and restore damaged ecosystems. These initiatives often require community participation.
+14. Excessive plastic consumption continues to worsen pollution levels. Governments attempt to regulate waste through strict legislation.
+15. The desert region experiences extreme fluctuations in temperature. Such environmental stress can hinderagricultural development.
+16. Scientists warn that the emission of greenhouse gases could intensify storms. This phenomenon has already been observed in multiple coastal areas.
+17. Water shortage has become a major challenge for many countries. Effective management of water supplies is now essential.
+18. Experts argue that deforestation may accelerate climate change. The loss of trees reduces the planet’s natural ability to absorb carbon.
+19. Marine biologists investigate how contamination affects ocean life. Even a slight increase in toxins can diminishfish populations.
+20. Renewable energy initiatives aim to promote cleaner production methods. Solar and wind power offer long-termenvironmental benefits.
+
+***
+
+### 21–30: 사회·교육
+
+21. Many educators advocate project-based learning because it enhances critical thinking. Students gain insight by solving real-world problems.
+22. Universities often revise their academic curricula to include more practical skills. This transition prepares graduates for modern industries.
+23. The allocation of public funds strongly influences educational quality. Poor regions often struggle to access adequate resources.
+24. Social scientists assess how cultural norms shape individual behavior. Their studies reveal distinct patterns among different communities.
+25. Many countries promote bilingual education to improve communication skills. Students who learn multiple languages often attain better job opportunities.
+26. Teachers emphasize the importance of consistent study habits. Even small daily efforts can accumulate into significant academic progress.
+27. Schools must address the growing issue of digital distraction. Without proper guidelines, students may neglectessential tasks.
+28. Education reforms typically aim to improve access and ensure fairness. However, major changes often face strong public opposition.
+29. Researchers analyze student performance to identify factors that affect motivation. Parental support appears to be the most reliable predictor.
+30. Public libraries provide valuable services that benefit local communities. They offer free access to knowledge, which is crucial for social development.
+
+***
+
+### 31–40: 경제·비즈니스
+
+31. Companies invest in new technology to maintain a competitive advantage. Failure to innovate may lead to long-term decline.
+32. The retail sector has seen rapid expansion due to online platforms. This shift has transformed consumer behavior globally.
+33. Businesses must forecast market trends to remain profitable. Accurate analysis helps them adapt quickly.
+34. Economic fluctuations often impact employment rates. During recessions, many firms reduce their workforce to cut costs.
+35. The government introduced new regulations to prevent unfair pricing. These rules help protect small businesses.
+36. International trade agreements aim to facilitate cooperation between nations. Such partnerships often stimulateeconomic growth.
+37. Many start-ups struggle because they cannot secure enough financial support. Investors typically look for strong evidence of future potential.
+38. Corporations diversify their products to minimize risk. This strategy ensures greater stability during market uncertainty.
+39. The tourism industry generates substantial revenue for some countries. However, excessive travel can damagelocal environments.
+40. To attract customers, companies highlight the unique features of their products. Effective branding can boost sales dramatically.
+
+***
+
+### 41–50: 심화 난도 (학술 스타일)
+
+41. The report posits that social inequality is inherent in current economic systems. This perspective contrasts with earlier assumptions.
+42. Scholars debate whether technological progress truly enhances human well-being. Some argue it merely altersexisting challenges.
+43. Recent findings underscore the need for more rigorous methodologies. Inconsistent procedures may lead to ambiguous results.
+44. Philosophers often contemplate the relationship between identity and culture. Their theories attempt to interpretcomplex human behavior.
+45. The article asserts that cultural diversity can foster innovation. Exposure to new perspectives often stimulatescreative thinking.
+46. Analysts contend that political stability depends on transparent governance. Any distortion of public information can erode trust.
+47. The study identifies a significant correlation between income level and mental health. Lower-income groups show higher levels of stress.
+48. Linguists examine how social context shapes language use. They note that vocabulary choice reflects cultural values.
+49. Historians trace the evolution of institutions over centuries. Their research demonstrates how traditions gradually transform.
+50. The author argues that global cooperation is essential for sustained development. Without mutual support, progress may remain marginal.
+
+***
+
